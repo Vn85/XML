@@ -1,5 +1,5 @@
 # XML
-IT Homework 1
+GIT Homework 1
 
 Для выполнения задания у вас должен быть установлен для Windows - GitBash.
 Создан аккаунт в GitHub
@@ -64,4 +64,4 @@ XML
     Решение: Button <Commit new file> 
  
  38. Синхронизировать внешний и локальный репозиторий XML
-    Решение: git pull
+    Решение: git pull или git fetch; git merge
