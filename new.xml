@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-   <title lang="ru">person</title>
 <person>
+    <title lang="ru">person</title>
     <firstName>Вячеслав</firstName>
     <lastName>Андерсен</lastName>
     <age>35</age>

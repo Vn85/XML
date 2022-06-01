@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-   <title lang="ru">predilections</title>
 <predilections>
+    <title lang="ru">predilections</title>
     <favouriteFilm>нет</favouriteFilm>
-    <favouriteSerial>нет<favouriteSerial>
-    <favouriteMeal>нет<favouriteMeal>
-    <favouriteSeason>все<favouriteSeason>
-    <favouriteCountry>"многие<favoriteCountry>
+    <favouriteSerial>нет</favouriteSerial>
+    <favouriteMeal>нет</favouriteMeal>
+    <favouriteSeason>все</favouriteSeason>
+    <favouriteCountry>"многие</favouriteCountry>
 </predilections>
